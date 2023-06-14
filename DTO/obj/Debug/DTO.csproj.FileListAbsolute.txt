@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\bin\Debug\DTO.dll.config
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\bin\Debug\DTO.dll
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\bin\Debug\DTO.pdb
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\bin\Debug\EntityFramework.dll
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\bin\Debug\EntityFramework.xml
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\obj\Debug\DTO.dll
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\obj\Debug\DTO.pdb
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\bin\Debug\System.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DTO\bin\Debug\System.Data.SqlClient.xml

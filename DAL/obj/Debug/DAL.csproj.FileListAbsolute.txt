@@ -1,0 +1,13 @@
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\bin\Debug\DAL.dll.config
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\bin\Debug\DAL.dll
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\bin\Debug\DTO.dll
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\bin\Debug\DTO.pdb
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\bin\Debug\DTO.dll.config
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\obj\Debug\DAL.dll
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\obj\Debug\DAL.pdb
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\DAL\bin\Debug\System.Data.SqlClient.xml
