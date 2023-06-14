@@ -1,0 +1,4 @@
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\GUI\obj\Debug\GUI.SignIn.resources
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Documents\HKI-3\CNPM\MVC cuoi ki\final_longchau\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache

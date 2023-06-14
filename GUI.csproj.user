@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CartDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateTrans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custom\CustomButton\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom\CustomInput\CustomInput.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ForgetPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImportMed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedicineInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResetPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserTransHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
